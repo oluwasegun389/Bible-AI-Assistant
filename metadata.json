@@ -1,0 +1,8 @@
+{
+  "name": "Logos Bible",
+  "description": "An all-in-one AI-powered spiritual companion featuring smart Bible study, devotional plans, tribal hymns, prayer groups, and interactive theology quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
